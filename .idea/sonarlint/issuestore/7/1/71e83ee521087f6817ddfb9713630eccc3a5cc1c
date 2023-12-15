@@ -1,0 +1,45 @@
+
+8
+java:S1118"Hide this public constructor.(¢ÏÓùÿÿÿÿÿ
+=
+java:S3010""Remove this assignment of "board".(îõã‚üÿÿÿÿ
+P
+java:S2209"5Change this instance-reference to a static reference.(îõã‚üÿÿÿÿ
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(·ž‰Åøÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¹ê´¦øÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(”Á»ÿ
+@	java:S106 "+Replace this use of System.out by a logger.(½½¾à
+@	java:S106#"+Replace this use of System.out by a logger.(ÓîÜú
+@	java:S106+"+Replace this use of System.out by a logger.(ž’âÒ
+@	java:S106,"+Replace this use of System.out by a logger.(ÓîÜú
+?	java:S106."+Replace this use of System.out by a logger.(Š‰—#
+@	java:S106/"+Replace this use of System.out by a logger.(ÓîÜú
+@	java:S1065"+Replace this use of System.out by a logger.(ž’âÒ
+?	java:S1068"+Replace this use of System.out by a logger.(Š‰—#
+E	java:S106;"+Replace this use of System.out by a logger.(™Ïøÿÿÿÿ
+?	java:S106@"+Replace this use of System.out by a logger.(¡äš'
+?	java:S106A"+Replace this use of System.out by a logger.(°•Þ
+m
+java:S3776F"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(·œ®¡úÿÿÿÿ
+E	java:S106K"+Replace this use of System.out by a logger.(¹ê´¦øÿÿÿÿ
+@	java:S106N"+Replace this use of System.out by a logger.(”Á»ÿ
+@	java:S106Q"+Replace this use of System.out by a logger.(½½¾à
+@	java:S106T"+Replace this use of System.out by a logger.(ÓîÜú
+@	java:S106\"+Replace this use of System.out by a logger.(ž’âÒ
+@	java:S106]"+Replace this use of System.out by a logger.(ÓîÜú
+?	java:S106_"+Replace this use of System.out by a logger.(Š‰—#
+@	java:S106`"+Replace this use of System.out by a logger.(ÓîÜú
+@	java:S106f"+Replace this use of System.out by a logger.(ž’âÒ
+?	java:S106i"+Replace this use of System.out by a logger.(Š‰—#
+E	java:S106l"+Replace this use of System.out by a logger.(™Ïøÿÿÿÿ
+?	java:S106q"+Replace this use of System.out by a logger.(¡äš'
+?	java:S106r"+Replace this use of System.out by a logger.(°•Þ
+m
+java:S3776w"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(‘¶¥ìüÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.io.PrintStream'.(×êŽ’
+T
+java:S1128">Remove this unused import 'java.nio.charset.StandardCharsets'.(ï˜ÞÛ
+?
+java:S1068")Remove this unused "board" private field.(çª±¦

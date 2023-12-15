@@ -1,0 +1,25 @@
+
+d
+java:S1192d"NDefine a constant instead of duplicating this literal "Authorization" 4 times.(¸äð­
+\
+java:S1192{"FDefine a constant instead of duplicating this literal "/game" 3 times.(´ýÉ·
+<
+java:S1170"!Make this final field static too.(÷Ç–Êþÿÿÿÿ
+F
+java:S1874"+Remove this use of "URL"; it is deprecated.(Ñ˜ÁÆüÿÿÿÿ
+A
+java:S1874="+Remove this use of "URL"; it is deprecated.(âäÓ¤
+A
+java:S1874_"+Remove this use of "URL"; it is deprecated.(âäÓ¤
+A
+java:S1874{"+Remove this use of "URL"; it is deprecated.(´ýÉ·
+B
+java:S1874œ"+Remove this use of "URL"; it is deprecated.(´ýÉ·
+B
+java:S1874¾"+Remove this use of "URL"; it is deprecated.(´ýÉ·
+H
+java:S1128"-Remove this unused import 'chess.ChessPiece'.(Á€“ˆûÿÿÿÿ
+D
+java:S1128".Remove this unused import 'chess.myChessGame'.(†¸ý°
+O
+java:S1128	"9Remove this unused import 'dataAccess.ChessPieceAdapter'.(Â£˜Ú

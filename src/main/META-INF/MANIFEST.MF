@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: /Users/jonahkunzler/Downloads/chess-2/client/src/main/ui/mai
+ n.java
+

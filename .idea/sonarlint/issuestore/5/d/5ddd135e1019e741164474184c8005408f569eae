@@ -1,0 +1,6 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÿ­«Òûÿÿÿÿ
+G
+java:S1172",Remove this unused method parameter "reset".(µÌÈÿÿÿÿÿ
+m
+java:S37763"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(¢•œÒüÿÿÿÿ

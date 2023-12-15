@@ -1,0 +1,33 @@
+
+Q
+java:S1066<"/Merge this if statement with the enclosing one.(ĞÚ¶Úøÿÿÿÿ8Å’Ö„Ä1
+h	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(³­Ä8È’Ö„Ä1
+£
+java:S1186T"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(€Ïİßşÿÿÿÿ8ú’Ö„Ä1
+£
+java:S1186X"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ıİ£¯úÿÿÿÿ8û’Ö„Ä1
+£
+java:S1186\"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•ë¥Ÿıÿÿÿÿ8û’Ö„Ä1
+£
+java:S1186`"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¶âÚúÿÿÿÿÿ8û’Ö„Ä1
+V
+java:S1874"9Remove this use of "ConnectionManager"; it is deprecated.(¾á‡‚8ˆ“Ö„Ä1
+]
+java:S1854E";Remove this useless assignment to local variable "message".(Ò¸ÅŞıÿÿÿÿ8â“Ö„Ä1
+L	java:S106="+Replace this use of System.out by a logger.(®Âéşÿÿÿÿ8ï“Ö„Ä1
+N
+java:S1481E",Remove this unused "message" local variable.(Ò¸ÅŞıÿÿÿÿ8õ“Ö„Ä1
+X
+java:S1854O";Remove this useless assignment to local variable "message".(¡ñ¶8ø“Ö„Ä1
+I
+java:S1481O",Remove this unused "message" local variable.(¡ñ¶8ú“Ö„Ä1
+]
+java:S1172T";Remove these unused method parameters "command", "session".(€Ïİßşÿÿÿÿ8ü“Ö„Ä1
+]
+java:S1172X";Remove these unused method parameters "command", "session".(ıİ£¯úÿÿÿÿ8€”Ö„Ä1
+]
+java:S1172\";Remove these unused method parameters "command", "session".(•ë¥Ÿıÿÿÿÿ8‚”Ö„Ä1
+]
+java:S1172`";Remove these unused method parameters "command", "session".(¶âÚúÿÿÿÿÿ8†”Ö„Ä1
+O
+java:S1144N"-Remove this unused private "loadGame" method.(Ú¶óıÿÿÿÿ8”Ö„Ä1
